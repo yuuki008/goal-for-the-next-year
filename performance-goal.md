@@ -18,7 +18,10 @@
 **役割**: オーナーシップを持って達成に貢献する
 **達成の判断指標**:
 
-- [最重要項目](https://www.notion.so/androots/GH-211022d569d380ddb1b0e40b8167bd49?source=copy_link)が全て達成している
+- [ETL が 1 つのサーバー環境に移行されている](https://www.notion.so/androots/ETL-1-API-21f022d569d380e58a61f18677ddd3a5?source=copy_link)
+- [Github でドキュメントが管理されている](https://www.notion.so/androots/andocs-21b022d569d3809db5d5d5a57e92c74a?source=copy_link)
+- [Github でイシュー管理されている](https://www.notion.so/androots/andocs-21b022d569d38099bd58fc05ed8e3abd?source=copy_link)
+- チームメンバー全員が保守・運用によるストレスが減っている (期末にメンバーにヒアリング)
 
 **思い**:
 
